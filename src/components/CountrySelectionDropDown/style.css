@@ -1,0 +1,28 @@
+.dropdown-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+  width: 50vw;
+  padding: 20px;
+  margin: 20px;
+}
+
+.dropdown {
+  padding: 0.5rem;
+  border: 1px solid #ad7878;
+  border-radius: 4px;
+  padding: 20px;
+  margin: 20px;
+}
+
+.state-display {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+}
+.state {
+  font-size: 0.8rem;
+  margin: 16px;
+  padding: 50px;
+  color: rgb(54, 54, 100);
+  border-style: solid 2px;
+}
